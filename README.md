@@ -101,7 +101,8 @@
     margin-right: 65px;
     width: 100px;
   }
-}</style>
+}
+</style>
 </head>
 <body>
 <h1>Our Menu</h1>
